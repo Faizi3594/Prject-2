@@ -1,1 +1,1 @@
-// Add New Files Here - form, login, register, dashboard, etc.
+// Add New Features - form, login, register, dashboard, etc.

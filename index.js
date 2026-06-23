@@ -1,1 +1,1 @@
-// Add New Files Here - buttons
+// Add New Features - buttons, checkboxes, radio buttons, etc.
